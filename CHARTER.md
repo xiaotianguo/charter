@@ -8,9 +8,7 @@ The Foundation’s mission is committing to evolve next generation software engi
 
 The Next Generation Software Engineering Definition v1.0:
 
-**Software engineering** is the application of engineering  to the development ,delivery and operation of software in a systematic method based on ABC(AI,Big Data, Cloud computing)  technology.
-
-Definition from Wikipedia:**Software engineering** is the application of engineering  to the development of software in a systematic method.
+**Software engineering** is the application of engineering  to the development ,delivery and operation of software in a systematic method based on ABC(AI, Big Data, Cloud computing) technology.
 
 #### 2. Membership.
 
